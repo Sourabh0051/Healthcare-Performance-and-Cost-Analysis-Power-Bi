@@ -43,8 +43,7 @@ and identify areas for improvement.
 ## 🛠️ Tools & Technologies Used
 
 - **Power BI Desktop** – Data modeling and dashboard development
-- **Microsoft Excel** – Raw data processing and formatting
 - **DAX** – Calculated columns and measures
-- **Power Query** – Data transformation and cleaning
+- **Power Query** – Raw data processing, formatting, data transformation and cleaning
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
