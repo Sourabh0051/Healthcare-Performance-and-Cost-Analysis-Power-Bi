@@ -1,5 +1,6 @@
 # Healthcare-Performance-and-Cost-Analysis
-A Power BI dashboard analyzing hospital performance, patient statistics, doctor payouts, and treatment costs to support data-driven healthcare decisions.
+A Power BI dashboard project focused on healthcare performance and cost analysis. It covers patient insights, doctor analytics,
+financial metrics, and operational costs using data modeling, DAX, and Power Query. Built for effective visualization and decision-making in hospital management.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
