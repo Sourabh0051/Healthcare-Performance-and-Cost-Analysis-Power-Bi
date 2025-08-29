@@ -7,7 +7,7 @@ financial metrics, and operational costs using data modeling, DAX, and Power Que
 ## 📊 Dashboard Overview
 
 This project visualizes key operational and financial KPIs within a hospital environment.
-The dashboard helps stakeholders monitor performance across departments, understand trends,
+The dashboard helps stakeholders monitor performance, understand trends,
 and identify areas for improvement.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
